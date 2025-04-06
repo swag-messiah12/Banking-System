@@ -55,6 +55,6 @@ A simple, modern banking management system built with **JavaFX** and **SQLite**.
 - Tabish Hassan  
 - Mian Ahmed
 
-## 📜 License
+# License
 
 This project is open source and free to use under the MIT License.
